@@ -17,47 +17,47 @@ A Flutter-based contact management app with platform-specific UI for iOS and And
 
 # Screenshots (Android)
 
-<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/SplashScreen.jpg" alt="Splash Screen">
+<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/SplashScreen.jpg" alt="Splash Screen" width="200" height="400">
 
-<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_141932.jpg" alt="Home Screen">
+<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_141932.jpg" alt="Home Screen" width="200" height="400">
 
-<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_141936.jpg" alt="Add Contact Details">
+<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_141936.jpg" alt="Add Contact Details" width="200" height="400">
 
-<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_141942.jpg" alt="Add Contact Details">
+<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_141942.jpg" alt="Add Contact Details" width="200" height="400">
 
-<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_141942.jpg" alt="Contact Details">
+<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_141942.jpg" alt="Contact Details" width="200" height="400">
 
-<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_141947.jpg" alt="Edit Contact Details">
+<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_141947.jpg" alt="Edit Contact Details" width="200" height="400">
 
-<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_141954.jpg" alt="Settings">
+<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_141954.jpg" alt="Settings" width="200" height="400">
 
-<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_141959.jpg" alt="Dark Mode Settings">
+<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_141959.jpg" alt="Dark Mode Settings" width="200" height="400">
 
-<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_142002.jpg" alt="Dark Mode HomePage">
+<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_142002.jpg" alt="Dark Mode HomePage" width="200" height="400">
 
-<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_142027.jpg" alt="Dark Mode HomePage">
+<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_142027.jpg" alt="Dark Mode HomePage" width="200" height="400">
 
-<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_142031.jpg" alt="Hidden Contact Details">
+<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_142031.jpg" alt="Hidden Contact Details" width="200" height="400">
 
-<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_142031.jpg" alt="Hidden Contact Details">
+<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_142031.jpg" alt="Hidden Contact Details" width="200" height="400">
 
 # Screenshots (iOS)
 
-<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/SplashScreen.jpg" alt="Splash Screen">
+<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/SplashScreen.jpg" alt="Splash Screen" width="200" height="400">
 
-<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_142056.jpg" alt="HomePage iOS">
+<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_142056.jpg" alt="HomePage iOS" width="200" height="400">
 
-<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_142100.jpg" alt="">
+<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_142100.jpg" alt="" width="200" height="400">
 
-<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_142103.jpg" alt="Add Contact page">
+<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_142103.jpg" alt="Add Contact page" width="200" height="400">
 
-<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_142107.jpg" alt="">
+<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_142107.jpg" alt="" width="200" height="400">
 
-<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_142112.jpg" alt="">
+<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_142112.jpg" alt="" width="200" height="400">
 
-<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_142115.jpg" alt="">
+<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_142115.jpg" alt="" width="200" height="400">
 
-<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_142121.jpg" alt="">
+<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_142121.jpg" alt="" width="200" height="400">
 
 # APK Download
 
