@@ -19,27 +19,27 @@ A Flutter-based contact management app with platform-specific UI for iOS and And
 
 <img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/SplashScreen.jpg" alt="Splash Screen">
 
-<img src="https://github.com/shahmoksh22/ContactAppFlutter/contactproject/ScreenShot/Screenshot_20250207_141932.jpg" alt="Home Screen">
+<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_141932.jpg" alt="Home Screen">
 
-<img src="https://github.com/shahmoksh22/ContactAppFlutter/contactproject/ScreenShot/Screenshot_20250207_141936.jpg" alt="Add Contact Details">
+<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_141936.jpg" alt="Add Contact Details">
 
-<img src="https://github.com/shahmoksh22/ContactAppFlutter/contactproject/ScreenShot/Screenshot_20250207_141942.jpg" alt="Add Contact Details">
+<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_141942.jpg" alt="Add Contact Details">
 
-<img src="https://github.com/shahmoksh22/ContactAppFlutter/contactproject/ScreenShot/Screenshot_20250207_141942.jpg" alt="Contact Details">
+<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_141942.jpg" alt="Contact Details">
 
-<img src="https://github.com/shahmoksh22/ContactAppFlutter/contactproject/ScreenShot/Screenshot_20250207_141947.jpg" alt="Edit Contact Details">
+<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_141947.jpg" alt="Edit Contact Details">
 
-<img src="https://github.com/shahmoksh22/ContactAppFlutter/contactproject/ScreenShot/Screenshot_20250207_141954.jpg" alt="Settings">
+<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_141954.jpg" alt="Settings">
 
-<img src="https://github.com/shahmoksh22/ContactAppFlutter/contactproject/ScreenShot/Screenshot_20250207_141959.jpg" alt="Dark Mode Settings">
+<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_141959.jpg" alt="Dark Mode Settings">
 
-<img src="https://github.com/shahmoksh22/ContactAppFlutter/contactproject/ScreenShot/Screenshot_20250207_142002.jpg" alt="Dark Mode HomePage">
+<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_142002.jpg" alt="Dark Mode HomePage">
 
-<img src="https://github.com/shahmoksh22/ContactAppFlutter/contactproject/ScreenShot/Screenshot_20250207_142027.jpg" alt="Dark Mode HomePage">
+<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_142027.jpg" alt="Dark Mode HomePage">
 
-<img src="https://github.com/shahmoksh22/ContactAppFlutter/contactproject/ScreenShot/Screenshot_20250207_142031.jpg" alt="Hidden Contact Details">
+<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_142031.jpg" alt="Hidden Contact Details">
 
-<img src="https://github.com/shahmoksh22/ContactAppFlutter/contactproject/ScreenShot/Screenshot_20250207_142031.jpg" alt="Hidden Contact Details">
+<img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_142031.jpg" alt="Hidden Contact Details">
 
 # Screenshots (iOS)
 
