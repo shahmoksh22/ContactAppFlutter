@@ -24,6 +24,7 @@ A Flutter-based contact management app with platform-specific UI for iOS and And
 <img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_141936.jpg" alt="Add Contact Details" width="200" height="400">
 
 <img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_141942.jpg" alt="Add Contact Details" width="200" height="400">
+<br> <br>
 
 <img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_141942.jpg" alt="Contact Details" width="200" height="400">
 
@@ -32,6 +33,8 @@ A Flutter-based contact management app with platform-specific UI for iOS and And
 <img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_141954.jpg" alt="Settings" width="200" height="400">
 
 <img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_141959.jpg" alt="Dark Mode Settings" width="200" height="400">
+
+<br> <br>
 
 <img src="https://github.com/shahmoksh22/ContactAppFlutter/blob/main/contactproject/ScreenShot/Screenshot_20250207_142002.jpg" alt="Dark Mode HomePage" width="200" height="400">
 
